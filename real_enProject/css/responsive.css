@@ -1,0 +1,799 @@
+
+@media only screen and (max-width: 360px){
+	body{
+		width:100%;
+		height:auto;
+		
+	}
+	#wrapper
+    {
+	width:100%;
+	height:100%;
+	/*background-color:yellow;*/
+}
+#layout
+{
+	width:100%;
+    /*max-width:960px;*/
+	height:auto;
+	background-color:#faf3ea;
+	
+}
+#layout img
+{
+	width:100%;
+    
+	
+}
+	#container{
+		width:100%;
+		height:100%;
+		background-color:#0F6;
+	}
+	#header{
+		width:100%;
+		height:60px;
+		background-color:#faf3ea;
+	}
+	#header_01{
+	width:120px;
+	height:30px;
+  }
+     #header_02{
+	width:130px;
+	height:50px;
+}
+   #bnrbackground{
+	   width:100%;
+	   height:100%;
+	   /*background-color:#FFC;*/
+   }
+	#content{
+		width:100%;
+		height:3193px;
+		background-color:#faf3ea;
+	}
+	.main{
+		width:100%;
+		height:3315px;
+		background-color:#faf3ea;
+	}
+	#msection{
+		width:100%;
+		margin:0;
+		background-color:#faf3ea;
+	}
+	#msection img{
+		width:100%;
+		/*height:200px;*/
+	}
+	
+	
+	#msection_1{
+		width:100%;
+		height:auto;
+		margin:0;
+		/*background-color:yellow;*/
+	}
+		
+	#msection_1 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		
+	}
+	.msection_1_01{	
+	    width:100%;
+		margin:0;
+		background-color:white;
+		text-align:center;
+	}
+	.msection_1_01 img{
+		max-width:100%;
+		max-height:auto;
+	}
+   .btext{
+	   width:100%;
+	   background-color:white;
+	   margin:0;
+	   text-align:center;
+   }
+   #msection_2{
+	   width:100%;
+	   height:auto;
+	   background:url(../image/sec_2background.png) no-repeat;
+   }
+   #msection_2 >button{
+	   width:100%;
+	  font-size:1em;
+	  letter-spacing:0.09em;
+	   
+   }
+   .msection_2background{
+	   width:100%;
+	   height:auto;
+	   
+	  }  
+   .btext_01{
+	   width:100%;
+	    height:auto;
+		/*font-size:0.5em;*/
+	   margin:0;
+	   background:url(../image/sec_2background.png) no-repeat;
+   }
+  
+   #msection_3{
+		width:100%;
+		margin:0;
+		height:auto;
+		background-color:white;
+	}
+	/*#msection_3 img{
+		width:100%;
+		
+	}*/
+	#msection_3 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		
+	}
+	#msection_3gallery{
+		width:100%;
+		height:580px;
+		margin:0;
+		background-color:white;
+	}	
+	#msection_3gallery .img{
+		width:100%;
+		margin:0;
+		text-align:center;
+	}
+	#msection_3gallery .img img{
+		width:50%;
+		height:auto;
+		text-align:center;
+	}
+	.desc{
+		width:100%;
+	
+	}
+	.desc p{
+	  width:100%;
+	  font-size:0.7em;
+	  text-align:center;
+	  margin:0;
+  }
+  #msection_4{
+	  width:100%;
+	  height:auto;
+	  margin:0;
+	  background-color:white;
+  }
+  #msection_4 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		
+	}
+  .image{
+	  width:50px;
+  }
+  #msection_4table{
+	  width:100%;
+	  height:auto;
+	  margin:0;
+	  margin-top:-10px;
+  }
+  #msection_4 .btnimage{
+	  width:100%;
+	  /*background-color:yellow;*/
+	  
+  }
+  .btnimage button{
+	  width:100%;
+	 margin-top:15px;
+  }
+  #msection_4table .text_11{
+	  width:100%;
+	  line-height:1.5em;
+	  background-color:white;
+  }
+  #msection_5{
+	  width:100%;
+	  margin-top:30px;
+	  
+  }
+   .himg_05{
+	   width:100%;
+   }
+   #msection_5 .himg_05 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		
+	}
+ 
+  .msection_5_01{
+	  width:100%;
+	  margin:0;
+  }
+  #MyGmaps{
+	  width:100%;
+	  margin:0;
+  }
+  .btnsec_05{
+	  width:100%;
+  }
+  #msection_5 .btnsec_05 >button{
+	  width:100%;
+  }
+  .btnimage_01{
+	  width:100%;
+	  height:20px;
+  }
+  .aside{
+	  display:none;
+  }
+  .footer{
+		width:100%;
+		height:auto;
+		display:block;
+		background-color:#75381d;
+	}
+	.footermenu{
+		width:100%;
+		height:auto;
+		/*background-color:yellow;*/
+	}
+	.footermenu ul{
+		width:100%;
+		/*background-color:yellow;*/
+	}
+	.footermenu ul li{
+		width:20%;
+		float:left;
+		padding:18.5px;
+		
+		
+	}
+	.footermenu ul li:hover{
+		background-color:#e2814c;
+		
+	}
+	.flogo{
+		width:100%;
+		height:auto;
+		margin:0;
+		text-align:center;
+		background-color:#75381d;
+	}
+	.ftext{
+		width:100%;
+		height:auto;
+		margin:0;
+		text-align:center;
+		background-color:#75381d;
+	}
+	.fcontact{
+		width:100%;
+		height:auto;
+		margin:0;
+		text-align:center;
+		background-color:#75381d;
+	}
+	.fcontact{
+		
+		height:auto;
+		text-align:center;
+		background-color:#75381d;
+	}
+	.copyright{
+		width:100%;
+		height:auto;
+		margin:0;
+		text-align:center;
+		background-color:#75381d;
+	}
+}
+@media only screen and (min-width: 360px) and (max-width: 720px){
+	body{
+		width:100%;
+		height:auto;
+		
+	}
+	#wrapper{
+		width:100%;
+		height:100%;
+		
+	}
+	#header{
+		max-width:100%;
+		height:50px;
+		background-color:#faf3ea;
+	}
+	#bnrbackground{
+		width:100%;
+		height:auto;
+		/*background-color:yellow;*/
+		
+	}
+    #layout{
+		width:100%;
+		height:auto;
+		
+		/*background-color:blue;*/
+	}
+     #layout img{
+		max-width:100%;
+		margin-top:-5px;
+	}
+	#content{
+		width:100%;
+		height:3458px;
+		background-color:#faf3ea;
+	}
+	.main{
+		width:100%;
+		height:3400px;
+		background-color:#faf3ea;
+	}
+	#msection{
+		width:100%;
+		height:auto;
+		margin:0;
+		background-color:#faf3ea;
+		height:auto;
+		text-align:center;
+		margin-top:10px;
+		margin-bottom:10px;
+	}
+	#msection img{
+		width:auto;
+		height:100%;
+		background-color:#faf3ea;
+	}
+	.msecimg_02{
+		margin-right:6px;
+	}
+	.msecimg_01{
+		float:none;
+	}
+	.msecimg_02{
+		float:none;
+	}
+		
+	#msection_1{
+		width:100%;
+		margin:0;
+	    /*background-color:green;*/
+	}
+	#msection_1 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background_01.png) no-repeat;
+	}
+	.msection_1_01{
+		width:100%;
+		margin:0;
+		text-align:center;
+		background-color:white;
+	}
+	.btext{
+		width:100%;
+		background-color:white;
+		margin:0;
+		text-align:center;
+		/*font-size:0.6em;*/
+	}
+	#msection_2{
+		width:100%;
+		/*background-color:red;*/
+	}
+	#msection_2 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background_01.png) no-repeat;
+	}
+	.msection_2background{
+		width:100%;
+	}
+	.btext_01{
+		width:100%;
+		margin:0;
+		font-size:0.75em;
+		line-height:1.5em;
+		 background:url(../image/sec_2background.png) no-repeat ;
+	}
+	 .btext_01_1{
+	   width:100%;
+	    height:auto;
+		font-size:0.7em;
+	   margin:0;
+	   /*background:url(../image/sec_2background.png) no-repeat ;*/
+   }
+	#msection_3{
+		width:100%;
+		background-color:white;
+	}
+	#msection_3 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background_01.png) no-repeat;
+	}
+	#msection_3gallery{
+		width:100%;
+		background-color:white;
+	}
+	#msection_3gallery .img{
+		width:100%;
+		background-color:white;
+	}
+	.desc {
+		width:100%;
+		text-align:center;
+		background-color:white;
+	}
+	.desc p{
+		width:100%;
+		text-align:center;
+		background-color:white;
+		
+	}
+    #msection_4{
+		width:100%;
+		height:auto;
+		margin:0;
+	}
+	#msection_4 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background_01.png) no-repeat;
+	}
+	#msection_4table{
+		width:100%;
+		margin-top:-20px;
+	}
+	#msection_4table text_11{
+		width:100%;
+	}
+	#msection_4 .btnimage{
+	  width:100%;
+	 /* background-color:yellow;*/
+	  
+  }
+  .btnimage button{
+	  width:100%;
+	 margin-top:10px;
+  }
+	#msection_5{
+		width:100%;
+		margin-top:15px;
+	}
+	.himg_05{
+		width:100%;
+	}
+	#msection_5 .himg_05 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background_01.png) no-repeat;
+	}
+	.msection_5_01{
+		width:100%;
+		margin:0;
+	}
+	.btnsec_05{
+	  width:100%;
+  }
+  #msection_5 .btnsec_05 >button{
+	  width:100%;
+  }
+	 /*#msection_5 button{
+	  width:100%;
+	  margin-top:10px;
+  }*/
+	.textlist{
+		line-height:1em;
+		margin-top:-5px;
+	}
+	.textinner{
+		line-height:1em;
+	}
+	.textlist_1{
+		line-height:1em;
+	}
+	.textlist_2{
+		line-height:1em;
+	}
+	#MyGmaps{
+		width:100%;
+	}
+	.aside{
+		display:none;
+	}
+	.footer{
+		width:100%;
+		height:400px;
+		background-color:#75381d;
+	}
+	.footermenu{
+		width:100%;
+	}
+	.footermenu ul{
+		width:100%;
+		/*margin-top:-15px;*/
+		margin-top:20px;
+	}
+	.footermenu ul li{
+		width:25%;
+		float:left;
+		padding-left:27px;
+		margin-top:-10px;
+		/*background-color:yellow;*/
+	}
+	.footermenu ul li:hover{
+		
+		background-color:#e2814c;
+	}
+	.flogo{
+		width:100%;
+		margin:0;
+		text-align:center;
+	}
+	.ftext{
+		width:100%;
+		margin:0;
+		text-align:center;
+		background-color:#75381d;
+	}
+	.fcontact{
+		width:100%;
+		height:auto;
+		margin:0;
+		margin-top:-10px;
+		text-align:center;
+		background-color:#75381d;
+	}
+	.copyright{
+		width:100%;
+		height:auto;
+		margin:0;
+		text-align:center;
+		background-color:#75381d;
+	}
+	.copyright p{
+		background-color:#75381d;
+	}
+}
+@media only screen and (min-width: 720px) and (max-width: 960px){
+	body{
+		width:100%;
+		margin:0;
+	}
+	#wrapper{
+		width:100%;
+		height:100%;
+		background-color:#faf3ea;
+	}
+	#header{
+		width:100%;
+		background-color:#faf3ea;
+	}
+	#bnrbackground{
+		width:100%;
+		height:auto;
+	}
+	#layout{
+		width:100%;
+		height:auto;
+	}
+	#layout img{
+		width:100%;
+	}
+	#content{
+		width:100%;
+		height:2500px;
+		background-color:#faf3ea;
+	}
+	.main{
+		width:100%;
+		height:auto;
+		background-color:#faf3ea;
+	}
+	#msection{
+		width:100%;
+		height:auto;
+		
+		
+	}
+	.msecimg_01{
+		float:none;
+	}
+	.msecimg_02{
+		float:none;
+	}
+	#msection img{
+		width:auto;
+		height:auto;
+		/*margin-left:10px;*/
+	}
+	#msection_1{
+		width:100%;
+		height:auto;
+		background-color:white;
+	}
+	#msection_1 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background.png) no-repeat;
+	}
+	.msection_1_01{
+		width:100%;
+		height:auto;
+		margin:0;
+		text-align:center;
+		background-color:white;
+	}
+	.msection_1_01 >img{
+		width:30%;
+	}
+	#msection_2{
+		width:100%;
+	}
+	#msection_2 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background.png) no-repeat;
+	}
+	.msection_2background{
+		width:100%;
+		height:auto;
+	}
+	.btext_01{
+	   width:100%;
+	    height:auto;
+		/*font-size:0.5em;*/
+	   margin:0;
+	   background:url(../image/background.png) no-repeat;
+	   /*background-color:red;*/
+   }
+   #msection_3{
+	   width:100%;
+	   
+	   background-color:white;
+   }
+   #msection_3 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background.png) no-repeat;
+	}
+   #msection_3gallery{
+	   width:100%;
+	   /*height:auto;*/
+	   background-color:white;
+   }
+    #msection_3gallery .img{
+	   width:30%;
+	   height:auto;
+	   background-color:white;
+   }
+   #msection_3gallery .img img{
+	   width:100%;
+	   height:auto;
+   }
+   #msection_4{
+	   width:100%;
+	   height:auto;
+	   background-color:white;
+   }
+    #msection_4 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background.png) no-repeat;
+	}
+   #msection_4table{
+	   width:100%;
+	}
+   #msection_4 .btnimage{
+	  width:100%;
+	  /*background-color:yellow;*/
+	  
+  }
+  .btnimage button{
+	  width:100%;
+	 margin-top:10px;
+  }
+   #msection_5{
+	   width:100%;
+	   height:auto;
+   }
+  .himg_05{
+	  width:100%;
+  }
+  #msection_5 .himg_05 >button{
+		width:100%;
+		font-size:1em;
+		letter-spacing:0.09em;
+		background:url(../image/keyv_background.png) no-repeat;
+	}
+   .msection_5_01{
+	   width:50%;
+   }
+   #MyGmaps{
+	   width:50%;
+   }
+     /*#msection_5 button{
+	  width:100%;
+	  margin-top:10px;
+  }*/
+  .btnsec_05{
+	  width:100%;
+  }
+  #msection_5 .btnsec_05 >button{
+	  width:100%;
+  }
+	
+   .desc{
+	   width:100%;
+	   height:auto;
+	   font-size:0.9em;
+   }
+	.btext{
+		width:100%;
+		text-align:center;
+		margin:0;
+		background-color:white;
+	}
+	.aside{
+		display:none;
+	}
+	.footer{
+	width:100%;
+	}
+	.footermenu{
+		width:100%;
+	}
+	.flogo{
+		width:30%;
+		/*background-color:red;*/
+	}
+	.ftext{
+		width:40%;
+		/*background-color:green;*/
+	}	
+	.fcontact{
+		width:30%;
+		/*background-color:blue;*/
+	}
+	.copyright{
+		width:100%;
+		text-align:center;
+		margin-top:10px;
+		background-color:#75381d;
+	}
+	.copyright p{
+		background-color:#75381d;
+	}
+}
+@media only screen and (min-width: 960px) and (max-width: 1100px){
+	#layout{
+		width:100%;
+		height:auto;
+	}
+	#layout img{
+		width:100%;
+	}
+	#bnrbackground{
+		width:100%;
+		height:auto;
+	}
+}
